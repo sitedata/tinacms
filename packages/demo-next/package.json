@@ -31,7 +31,7 @@
     "react-tinacms-editor": "^0.8.3-alpha.0",
     "react-tinacms-inline": "^0.9.1-alpha.0",
     "tinacms": "^0.22.0-alpha.0",
-    "webpack": "^4.41.5"
+    "webpack": "^5.1.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2",
