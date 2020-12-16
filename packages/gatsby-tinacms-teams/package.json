@@ -33,7 +33,7 @@
     "docs": "npx typedoc"
   },
   "dependencies": {
-    "@tinacms/teams": "^0.2.2",
+    "@tinacms/teams": "^0.35.0",
     "cookie-parser": "^1.2.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
