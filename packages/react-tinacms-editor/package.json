@@ -51,7 +51,7 @@
     "tinacms": "^0.22.0-alpha.0"
   },
   "dependencies": {
-    "codemirror": "^5.42.2",
+    "codemirror": "^5.59.0",
     "lodash.debounce": "^4.0.8",
     "lodash.get": "^4.4.2",
     "markdown-it": "^8.3.1",
